@@ -1,8 +1,8 @@
 
 
-create Database`db_tostador`
+create Database db_tostador
 
-
+use db_tostador
 --
 -- Table structure for table `admistrador`
 --
